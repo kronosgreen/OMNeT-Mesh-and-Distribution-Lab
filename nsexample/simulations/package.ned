@@ -1,0 +1,3 @@
+package nsexample;
+
+@license(LGPL);
